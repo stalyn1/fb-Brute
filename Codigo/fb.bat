@@ -33,18 +33,13 @@ COLOR 0F
 ::COLOR 08
 
 ::tree /F /A>>list.txt 
-# [CODE]        [DESCRIPTION]
-#
-# echo. &       starts a new line
-# echo.         skips a line
-# PainText 08       08 is color code for gray   Type "color ?" for color codes
-# " Red"        The space befor text gives space between the word befor it
 cls
 for /F "tokens=1,2 delims=#" %%a in ('"prompt #$H#$E# & echo on & for %%b in (1) do rem"') do (set "DEL=%%a")
 <nul set /p=""
 setlocal enabledelayedexpansion
 
 :menu
+cls
 del Wordlist
 echo. %cd%
 copy password.txt Wordlist
