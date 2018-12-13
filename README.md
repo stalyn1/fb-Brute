@@ -1,11 +1,10 @@
 # fb-Brute
 Ataque de fuerza bruta para facebook con fb
 #### Descargar https://github.com/Pericena/fb-Brute/blob/master/Descargar/fb-brute.zip
-### strawberry-perl.32bits
-Descargar 
+## Descargar strawberry
+### strawberry-perl.32bits 
 - https://github.com/Pericena/fb-Brute/blob/master/Aplicaci%C3%B3n/strawberryperl/strawberry-perl-5.28.1.1-32bit.msi
 ### strawberry-perl.64bits
-Descargar
 - https://github.com/Pericena/fb-Brute/blob/master/Aplicaci%C3%B3n/strawberryperl/strawberry-perl-5.28.0.1-64bit.msi
 
 #### Sigueme en las redes Sociales:
